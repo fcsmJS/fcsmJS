@@ -32,7 +32,7 @@ I'm a frontend developer based in Toronto, ON (GTA) (Canada). I'm a passionate l
 - **UX/UI:** Adobe XD, Adobe Photoshop, Figma, Adobe Illustrator.
 
 ### 📫 How to reach me:
-- alexey.ivanov.private@gmail.com | [LinkedIn](https://www.linkedin.com/in/alexeyivanov82) | [Twitter](https://twitter.com/alessio_gio)
+- alexey.ivanov.private@gmail.com | [LinkedIn](https://www.linkedin.com/in/alexey-ivanov-fcsmJS) | [Twitter](https://twitter.com/alessio_gio)
 
 ⚡ Fun fact: Equal is Not Always Equal in Javascript 🤣. Hire [me](mailto:alexey.ivanov.private@gmail.com?Subject=Hello%20Alexey) 👨‍💻.
 
