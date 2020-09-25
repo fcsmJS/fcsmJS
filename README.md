@@ -36,6 +36,18 @@ I'm a frontend developer based in Toronto, ON (GTA) (Canada). I'm a passionate l
 
 ⚡ Fun fact: Equal is Not Always Equal in Javascript 🤣. Hire [me](mailto:alexey.ivanov.private@gmail.com?Subject=Hello%20Alexey) 👨‍💻.
 
+### 💻 Some of projects:
+
+| Project name        | Description          | Technologies  |
+| ------------- | ------------- | ----- |
+
+| [What To Watch](https://github.com/fcsmJS/what-to-watch) | Online cinema app with ability to log in, rate, comment and watch movies. | TypeScript, React, Redux, Jest, Enzyme, Webpack |
+
+
+### 💌 Feel free to contact me if you have an open position that matches my skills. 
+
+I am currently open for full-time job in Toronto, GTA (Canada).
+
 ### Show some ❤️ by starring some of the repositories!
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=fcsmJS&show_icons=true&hide_border=true)
