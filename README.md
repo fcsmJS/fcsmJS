@@ -16,6 +16,8 @@
   <img align="left" alt="Alexey`s Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
+![](https://www.codewars.com/users/fcsmJS/badges/micro)
+
 <br />
 
 ### Glad to see you here! 🤩 ![](https://visitor-badge.glitch.me/badge?page_id=fcsmJS.fcsmJS)
