@@ -38,12 +38,12 @@ I'm a frontend developer based in Toronto, ON (GTA) (Canada). I'm a passionate l
 
 ⚡ Fun fact: Equal is Not Always Equal in Javascript 🤣. Hire [me](mailto:alexey.ivanov.private@gmail.com?Subject=Hello%20Alexey) 👨‍💻.
 
-### 💻 Some of projects:
+### 💻 Some of my projects:
 
 | Project name        | Description          | Technologies  |
 | ------------- | ------------- | ----- |
 | [What To Watch](https://github.com/fcsmJS/what-to-watch) | Online cinema app with ability to log in, rate, comment and watch movies. | TypeScript, React, Redux, Jest, Enzyme, Webpack |
-| [Cinemaddict](https://github.com/fcsmJS/cinemaddict) | Online cinema app | Vanilla JavaScript (ES6), Chart.js, Moment.js, Webpack |
+| [Cinemaddict](https://github.com/fcsmJS/cinemaddict) | Online catalogue of movies, you can sort, comment, add to favourites, mark as watcehd, sort and view detailed stats  | Vanilla JavaScript (ES6), Chart.js, Moment.js, Webpack |
 ### 💌 Feel free to contact me if you have an open position that matches my skills. 
 
 I am currently open for full-time job in Toronto, GTA (Canada).
