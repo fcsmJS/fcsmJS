@@ -45,6 +45,8 @@ I'm a frontend developer based in Toronto, ON (GTA) (Canada). I'm a passionate l
 | [What To Watch](https://github.com/fcsmJS/what-to-watch) | Online cinema app with ability to log in, rate, comment and watch movies. | TypeScript, React, Redux, Jest, Enzyme, Webpack |
 | [Cinemaddict](https://github.com/fcsmJS/cinemaddict) | Online catalogue of movies, you can sort, comment, add to favourites, mark as watched, sort and view detailed stats  | Vanilla JavaScript (ES6), Chart.js, Moment.js, Webpack |
 | [Keksobooking](https://github.com/fcsmJS/keksobooking) | Site of announcements for renting out housing. Retrieving data from the API. Interactive pins on the map with the received data. Filter by criteria. Form for adding new offers.  | Vanilla JavaScript (ES5) |
+| [Sedona](https://github.com/fcsmJS/sedona) | Page of the tourist town of Sedona. Tile grid, pop-up, interactive map, hotel catalogue. | HTML, CSS, JavaScript |
+
 ### 💌 Feel free to contact me if you have an open position that matches my skills. 
 
 I am currently open for full-time job in Toronto, GTA (Canada).
