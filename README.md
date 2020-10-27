@@ -46,6 +46,7 @@ I'm a frontend developer based in Toronto, ON (GTA) (Canada). I'm a passionate l
 | [Cinemaddict](https://github.com/fcsmJS/cinemaddict) | Online catalogue of movies, you can sort, comment, add to favourites, mark as watched, sort and view detailed stats  | Vanilla JavaScript (ES6), Chart.js, Moment.js, Webpack |
 | [Keksobooking](https://github.com/fcsmJS/keksobooking) | Site of announcements for renting out housing. Retrieving data from the API. Interactive pins on the map with the received data. Filter by criteria. Form for adding new offers.  | Vanilla JavaScript (ES5) |
 | [Doingsdone](https://github.com/fcsmJS/doingsdone) | «Doingsdone» is a web application for easy to use list of tasks. After creating an account, the user can start contributing their business by dividing them by projects and specifying the terms. | PHP, MySQL |
+| [Cat-Energy](https://github.com/fcsmJS/cat-energy-18) | Ecommerce of food for the cats. Flexbox layout grid, catalogue of products, interactive map, contacts form | HTML, CSS, SASS, Gulp, JavaScript |
 | [Sedona](https://github.com/fcsmJS/sedona) | Page of the tourist town of Sedona. Tile grid, pop-up, interactive map, hotel catalogue. | HTML, CSS, JavaScript |
 
 ### 💌 Feel free to contact me if you have an open position that matches my skills. 
