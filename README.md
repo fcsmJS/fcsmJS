@@ -49,7 +49,7 @@ I'm a frontend developer based in Toronto, ON (GTA) (Canada). I'm a passionate l
 | [Cat-Energy](https://github.com/fcsmJS/cat-energy-18) | Adaptive e-commerce site of food for the cats. Flexbox layout grid, catalogue of products, interactive map, contacts form | HTML, CSS, SASS, Gulp, JavaScript |
 | [Sedona](https://github.com/fcsmJS/sedona) | Page of the tourist town of Sedona. Tile grid, pop-up, interactive map, hotel catalogue. | HTML, CSS, JavaScript |
 | [Gllacy](https://github.com/fcsmJS/gllacy) | Icecream e-store. Tile grid, pop-up, interactive map, icecream catalogue. | HTML, CSS, JavaScript |
-| [JS Drum Kit](fcsmjs.github.io/js-drum-kit/) | Simple JavaScript Drum Kit. | HTML, CSS, JavaScript |
+| [JS Drum Kit](https://github.com/fcsmJS/js-drum-kit/) | Simple JavaScript Drum Kit. | HTML, CSS, JavaScript |
 
 ### 💌 Feel free to contact me if you have an open position that matches my skills. 
 
