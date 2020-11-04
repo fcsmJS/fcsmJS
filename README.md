@@ -49,7 +49,6 @@ I'm a frontend developer based in Toronto, ON (GTA) (Canada). I'm a passionate l
 | [Cat-Energy](https://github.com/fcsmJS/cat-energy-18) | Adaptive e-commerce site of food for the cats. Flexbox layout grid, catalogue of products, interactive map, contacts form | HTML, CSS, SASS, Gulp, JavaScript |
 | [Sedona](https://github.com/fcsmJS/sedona) | Page of the tourist town of Sedona. Tile grid, pop-up, interactive map, hotel catalogue. | HTML, CSS, JavaScript |
 | [Gllacy](https://github.com/fcsmJS/gllacy) | Icecream e-store. Tile grid, pop-up, interactive map, icecream catalogue. | HTML, CSS, JavaScript |
-| [JS Drum Kit](https://github.com/fcsmJS/js-drum-kit/) | Simple JavaScript Drum Kit. | HTML, CSS, JavaScript |
 
 ### 💻 JavaScript30:
 #### 30 Days Vanilla Javascript Coding Challenge
@@ -61,6 +60,7 @@ I'm a frontend developer based in Toronto, ON (GTA) (Canada). I'm a passionate l
 | # 3 |   [CSS Variables](https://github.com/fcsmJS/css-var)   | Playing with CSS variables and JS    |
 | # 4 |   [Array Cardio Day 1](https://github.com/fcsmJS/array-cardio-day)   | Learning JS array's methods    |
 | # 5 |   [Flex Panels Image Gallery](https://github.com/fcsmJS/flex-panels-gallery)   | Flexbox image gallery    |
+| # 6 |   [Type Ahead](https://github.com/fcsmJS/ajax-type-ahead)   | Type Ahead    |
 
 ### 💌 Feel free to contact me if you have an open position that matches my skills. 
 
