@@ -63,6 +63,8 @@ I'm a frontend developer based in Toronto, ON (GTA) (Canada). I'm a passionate l
 | # 6 |   [Type Ahead](https://github.com/fcsmJS/ajax-type-ahead)   | Type Ahead    |
 | # 7 |   [Array Cardio Day 2](https://github.com/fcsmJS/array-cardio-day2)   | Learning JS array's methods    |
 | # 8 |   [Fun Canvas](https://github.com/fcsmJS/fun-canvas)   | Fun with HTML5 Canvas    |
+| # 9 |   [Devtool tricks](https://github.com/fcsmJS/dev-tools-tricks)   | 14 devtool's tricks    |
+| # 10 |   [Multiple checkboxes](https://github.com/fcsmJS/multiple-checkboxes)   | Multiple checkboxes    |
 
 ### 💌 Feel free to contact me if you have an open position that matches my skills. 
 
