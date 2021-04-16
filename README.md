@@ -22,21 +22,22 @@
 
 ### Glad to see you here! 🤩 ![](https://visitor-badge.glitch.me/badge?page_id=fcsmJS.fcsmJS)
 
-I'm a frontend developer based in Toronto, ON (GTA) (Canada). I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨.
+I'm a frontend developer based in Toronto, ON (GTA) (Canada). I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. My experience involves the implementation of performance-driven, responsive applications using good practices and modern standards.
 
 ### 🛠 My tech stack:
 
 - **Responsive web-development:** HTML5, CSS/SCSS;
-- **Frontend:** JavaScript (ES5/ES6);
+- **Frontend:** JavaScript (ES5/ES6), TypeScript;
 - **JavaScript libraries:** React, Redux;
 - **Testing libraries:** Jest, Enzyme;
 - **Code bundlers:** Gulp, Webpack;
-- **UX/UI:** Adobe XD, Adobe Photoshop, Figma, Adobe Illustrator.
+- **UX/UI:** Figma.
+- **Version control:** Git.
 
 ### 📫 How to reach me:
-- alexey.ivanov.private@gmail.com | [LinkedIn](https://www.linkedin.com/in/alexey-ivanov-fcsmJS) | [Twitter](https://twitter.com/alessio_gio)
+- alexey.ivanov.js@gmail.com | [LinkedIn](https://www.linkedin.com/in/alexey-ivanov-fcsmJS) | [Twitter](https://twitter.com/alessio_gio)
 
-⚡ Fun fact: Equal is Not Always Equal in Javascript 🤣. Hire [me](mailto:alexey.ivanov.private@gmail.com?Subject=Hello%20Alexey) 👨‍💻.
+⚡ Fun fact: Equal is Not Always Equal in Javascript 🤣. Hire [me](mailto:alexey.ivanov.js@gmail.com?Subject=Hello%20Alexey) 👨‍💻.
 
 ### 💻 Some of my projects:
 
@@ -49,6 +50,7 @@ I'm a frontend developer based in Toronto, ON (GTA) (Canada). I'm a passionate l
 | [Cat-Energy](https://github.com/fcsmJS/cat-energy-18) | Adaptive e-commerce site of food for the cats. Flexbox layout grid, catalogue of products, interactive map, contacts form | HTML, CSS, SASS, Gulp, JavaScript |
 | [Sedona](https://github.com/fcsmJS/sedona) | Page of the tourist town of Sedona. Tile grid, pop-up, interactive map, hotel catalogue. | HTML, CSS, JavaScript |
 | [Gllacy](https://github.com/fcsmJS/gllacy) | Icecream e-store. Tile grid, pop-up, interactive map, icecream catalogue. | HTML, CSS, JavaScript |
+| [NextJS Blog](https://github.com/fcsmJS/nextjs-blog) | Simple blog. User bio, couple posts | Next.js |
 
 ### 💻 JavaScript30:
 #### 30 Days Vanilla Javascript Coding Challenge
