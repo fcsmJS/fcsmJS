@@ -52,6 +52,7 @@ I'm a frontend developer based in Toronto, ON (GTA) (Canada). I'm a passionate l
 | [Gllacy](https://github.com/fcsmJS/gllacy) | Icecream e-store. Tile grid, pop-up, interactive map, icecream catalogue. | HTML, CSS, JavaScript |
 | [NextJS Blog](https://github.com/fcsmJS/nextjs-blog) | Simple blog. User bio, couple posts | Next.js |
 | [React Quiz](https://github.com/fcsmJS/react-quiz) | React Quiz App based on the tutorial of Thomas Weibenfalk | React, TypeScript, Styled Components |
+| [Task Manager](https://github.com/fcsmJS/taskmanager) | Task Manager | JavaScript, Webpack |
 
 ### 💻 JavaScript30:
 #### 30 Days Vanilla Javascript Coding Challenge
